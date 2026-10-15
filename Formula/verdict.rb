@@ -2,7 +2,7 @@ class Verdict < Formula
   desc "Gate CI on load-test regressions (k6, JMeter)"
   homepage "https://github.com/beyzaelbeyoglu/verdict-releases"
   url "https://github.com/beyzaelbeyoglu/verdict-releases/releases/download/v0.1.0/verdict-0.1.0.jar"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "6c8ea2adef1bac004aaedae54e50fd62bea7c370ff1000c693416a5508d37c36"
   depends_on "openjdk@21"
 
   def install
